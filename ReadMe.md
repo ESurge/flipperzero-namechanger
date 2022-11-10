@@ -78,3 +78,8 @@ void furi_hal_version_set_custom_name(const char* name);
 ```
 Function,+,furi_hal_version_set_custom_name,void,const char*
 ```
+
+## Notes
+
+- This will not change the Bluetooth name of your device. If you wish to change this, please look into "Custom Name Change" in 3rd-party firmware.
+- This will change the USB device name, as well as the name displayed in the Passport.
