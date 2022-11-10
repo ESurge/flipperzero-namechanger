@@ -6,7 +6,7 @@
 
 - Name Changer files under `applications/plugins` can be built as a FAP for external loading.
 - The app requires a few things:
-	- NameChangerSRV to be loaded within the firmware
+	- NameChanger Service to be loaded within the firmware
 	- `furi_hal_version.c` and `furi_hal_version.h` files need to be modified
 	- A function in `api_symbols.csv` needs to be set to `+` after modifying `furi_hal_version`
 	
