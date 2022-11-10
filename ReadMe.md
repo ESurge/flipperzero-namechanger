@@ -45,6 +45,7 @@
 - Choosing `Revert` to the right will revert the FlipperZero's name to a blank name
 - Upon successful revert, the FlipperZero will reboot, and a blank name results in the default name being used.
 
+## Code Changes
 
 ### furi_hal_version.c
 
