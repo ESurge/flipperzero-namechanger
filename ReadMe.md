@@ -1,6 +1,6 @@
 # FlipperZero Name Changer Application
 
-#### Based on FlipperZero Firmware 0.70.x with Flipper App Package Support
+#### Tested on FlipperZero Firmware 0.74.x with Flipper App Package Support
 
 ## Application
 
